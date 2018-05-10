@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="hydro-movie" themeId="4" version="65540" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="1" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\20131229_113723.jpg" arWidth="3264" arHeight="2448" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="2" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr005.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="3" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr014.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="4" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr015.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="5" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr023.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="6" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr035.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="7" filePath="C:\Users\zaf\Desktop\site ecoalumin\movie\www.digitalfocus.gr045.JPG" arWidth="3504" arHeight="2336" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+  </MediaItems>
+  <Extents>
+    <ImageClip extentID="5" gapBefore="0" mediaItemID="1" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="6" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="6" gapBefore="0" mediaItemID="2" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="-1" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-1" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="5" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="7" gapBefore="0" mediaItemID="3" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-1" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="1" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="9" gapBefore="0" mediaItemID="5" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="6" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="10" gapBefore="0" mediaItemID="6" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-1" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="1" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="11" gapBefore="0" mediaItemID="7" duration="8">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectAutomaticTemplate">
+          <BoundProperties>
+            <BoundPropertyFloatSet Name="center">
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+              <BoundPropertyFloatElement Value="-0.5" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyInt Name="effectType" Value="6" />
+            <BoundPropertyFloatSet Name="scale">
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="0.85000002384185791" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="5" />
+        <ExtentRef id="6" />
+        <ExtentRef id="7" />
+        <ExtentRef id="9" />
+        <ExtentRef id="10" />
+        <ExtentRef id="11" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0.5" />
+    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="4">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+  <AudioDuckingProperties emphasisPlaceholderID="Narration" />
+</Project>
